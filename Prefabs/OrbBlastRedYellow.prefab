@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 2197964597163994417, guid: 7caf0a8c2aec5a347bd32955bea4724c,
         type: 3}
       propertyPath: m_Name
-      value: OrbBlastRed
+      value: OrbBlastRedYellow
       objectReference: {fileID: 0}
     - target: {fileID: 2197964597163994418, guid: 7caf0a8c2aec5a347bd32955bea4724c,
         type: 3}
